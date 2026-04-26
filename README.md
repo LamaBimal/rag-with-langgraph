@@ -1,4 +1,4 @@
-## Python LangGraph Tutorial ##
+## RAG System With Python LangGraph Tutorial ##
 LangGraph is a framework that let us build AI agents as graphs, where each node does a task and each edges decides what happens next.
 
 ## Installation ##
